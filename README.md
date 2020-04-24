@@ -1,2 +1,2 @@
-# s425-android-lab2
+# cs425-android-lab5
 This is part of the CS425@SMU-MedTech
